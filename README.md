@@ -129,7 +129,7 @@ We visualize the attention weights of image and text cross-attention modules. Pa
 ![](assets/qualitative_results_supp.png "Qualitative Results")
 
 ## Acknowledgements
-We thank [OpenCLIP](https://github.com/mlfoundations/open_clip) for providing the amazing code base. Meanwhile, we acknowledge [DreamLIP](https://github.com/zyf0619sjtu/DreamLIP) and [PixelProse](https://huggingface.co/datasets/tomg-group-umd/pixelprose) for providing us with various pre-training datasets with captions from MLLMs. We are also greateful for [SCLIP](https://github.com/wangf3014/SCLIP) for providing the detailed scheme for semantic segmentation task.
+We thank [OpenCLIP](https://github.com/mlfoundations/open_clip) for providing the amazing code base. Meanwhile, we acknowledge [DreamLIP](https://github.com/zyf0619sjtu/DreamLIP) and [PixelProse](https://huggingface.co/datasets/tomg-group-umd/pixelprose) for providing us with various pre-training datasets with captions from MLLMs. We are also grateful to [SCLIP](https://github.com/wangf3014/SCLIP) for providing the detailed scheme for semantic segmentation task.
 
 ## Citations
 If you find our work useful, please star this repo and cite:
